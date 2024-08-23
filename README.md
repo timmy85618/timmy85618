@@ -1,0 +1,1 @@
+input=(head shot spam)
